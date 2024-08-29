@@ -29,7 +29,11 @@ function App() {
     setbmiMessage("You are obese");
 
   }
-  
+
+  // let reload = () => {
+    // window.location.reload()
+  // }
+
   return (
     <>
     <h1 className='font-bold text-[5vw] w-full text-center'>BMI Calculator </h1>
